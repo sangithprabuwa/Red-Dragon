@@ -27,7 +27,7 @@ global.premium = ['+94774155960'] //Owner Number info
 global.ownernomer = '+94774155960' //Owner Number <<<
 
 global.ownername = '🎭PRABUDDHA😻' //Owner Name
-global.botname = ' ☬PRABUDDHA༒MULTI-DEVICE WABOT࿐' //Bot Name
+global.botname = ' ☬PRABUDDHA༒MULTI-DEVICE WA_BOT࿐' //Bot Name
 
 global.button = '🤭WHATSAPP GROUP📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'tinyurl.com/blackheart2128' //Change Your Button's URL
